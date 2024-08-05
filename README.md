@@ -44,6 +44,6 @@ El validador de RUT en C++ permite ingresar un RUT y verificar si es válido o n
    ```
    
 ## Uso
-Ejecuta el programa.
-Ingresa el RUT en el formato adecuado (por ejemplo, `12345678-9`).
+Ejecuta el programa.<br/>
+Ingresa el RUT en el formato adecuado (por ejemplo, `12345678-9`).<br/>
 El programa te informará si el RUT ingresado es válido o no.
